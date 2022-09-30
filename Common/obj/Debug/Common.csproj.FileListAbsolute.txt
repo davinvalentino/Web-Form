@@ -1,0 +1,6 @@
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\Common\bin\Debug\Common.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\Common\bin\Debug\Common.pdb
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\Common\obj\Debug\Common.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\Common\obj\Debug\Common.pdb

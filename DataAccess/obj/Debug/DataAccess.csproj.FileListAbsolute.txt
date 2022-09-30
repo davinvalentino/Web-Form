@@ -1,0 +1,14 @@
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\Common.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\bin\Debug\Common.pdb
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gary Juliardo\Desktop\ProjectASP.NETWebForm\DataAccess\obj\Debug\DataAccess.pdb
